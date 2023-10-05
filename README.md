@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ryanpegoud)
 [<img src="https://img.shields.io/badge/Health Bar%20-brightgreen.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />](https://nutrition-web-app.web.app/#/)
 
-<img src="https://img.shields.io/badge/Data Scientist @BMW%20-white.svg?&style=for-the-badge&logo=bmw&logoColor=black" /> <img src="https://img.shields.io/badge/Engineering student @EPF-%23EE4C2C.svg?&style=for-the-badge&&logoColor=black" />
+<img src="https://img.shields.io/badge/X-Data Scientist intern @BMW%20-white.svg?&style=for-the-badge&logo=bmw&logoColor=black" /> <img src="https://img.shields.io/badge/NLP Professor @EPF-%23EE4C2C.svg?&style=for-the-badge&&logoColor=black" />
 
 <br >
 
