@@ -15,6 +15,7 @@
 # 🤵‍♂️ Bio
 
 Welcome to my GitHub profile! I am a part-time Professor in Natural Language Processing 🧑‍🏫, previously an intern at BMW 🏎️. 
+
 Deep Learning, and specifically Reinforcement Learning (RL), are particular interests of mine. In the future, I aspire to become a 🧪 research scientist and pursue a PhD in the field of RL.
 Besides my teaching obligations, I regularly publish ML-related content and articles on my [personal blog](https://machine-learning-blog.vercel.app) as well as on [Medium and Towards Data Science](https://medium.com/@ryanpegoud)
 
