@@ -16,6 +16,7 @@
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [Temporal-Difference Learning and the importance of exploration: An illustrated guide](https://towardsdatascience.com/temporal-difference-learning-and-the-importance-of-exploration-an-illustrated-guide-5f9c3371413a?source=rss-27fba63b402e------2)
+- [Temporal-Difference Learning and the importance of exploration: An illustrated guide](https://towardsdatascience.com/temporal-difference-learning-and-the-importance-of-exploration-an-illustrated-guide-5f9c3371413a?source=rss-27fba63b402e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left"> 🤝 Connect with me:</h3>
