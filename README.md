@@ -1,36 +1,41 @@
-﻿# 🤖🥼 Ryan Pégoud
+[![MasterHead](https://images.unsplash.com/photo-1655635643486-a17bc48771ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2532&q=80)](https://unsplash.com/fr/@googledeepmind)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ryan-pégoud)
-[<img src="https://img.shields.io/badge/Personal Website-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://rpegoud.github.io/#/)
-[<img src="https://img.shields.io/badge/ML Blog-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=white&color=blueviolet" />](https://machine-learning-blog.vercel.app)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ryanpegoud)
-[<img src="https://img.shields.io/badge/Health Bar%20-brightgreen.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />](https://nutrition-web-app.web.app/#/)
+<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h3 align="center">Invetered Gradient Descender, Reinforcement Learning Enthusiast</h3>
 
-<img src="https://img.shields.io/badge/Data Scientist intern @BMW%20-white.svg?&style=for-the-badge&logo=bmw&logoColor=black" /> <img src="https://img.shields.io/badge/NLP Professor @EPF-%23EE4C2C.svg?&style=for-the-badge&&logoColor=black" />
+- 🔭 I’m currently working as **Part-Time Professor in NLP *@EPF Engineering School***
 
-<br >
+- 🌱 I’m currently studying **Reinforcement Learning using JAX**
 
-**`Data Scientist, Aspiring Research scientist`**
+- 📝 I regularly write articles on [**my personal blog**](https://machine-learning-blog.vercel.app) and [**Towards Data Science**](https://medium.com/@ryanpegoud)
 
-# 🤵‍♂️ Bio
+- 📫 Reach me here **<ryan.pegoud@epfedu.fr>**
 
-Welcome to my GitHub profile! I am a **part-time Professor** in **Natural Language Processing (NLP)** 🧑‍🏫, previously a **data scientist intern** at **BMW** 🏎️. 
+- 📄 Learn more about my experiences on my [**portfolio**](https://rpegoud.github.io)
 
-Deep Learning, and specifically **Reinforcement Learning (RL)**, are particular interests of mine. In the future, I aspire to become a 🧪 **research scientist** and pursue a **PhD** in the field of RL.
-Besides my teaching obligations, I regularly publish ML-related content and articles on my [**personal blog**](https://machine-learning-blog.vercel.app) as well as on [**Medium and Towards Data Science**](https://medium.com/@ryanpegoud)
+### Latest Blogs Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-I am also interested in 💻 web and 📱 mobile development and have been exploring the Flutter programming language to create engaging and dynamic applications. My latest projects software engineering projects include professional portfolios and [**HealthBar**](https://github.com/RPegoud/HealthBar), a nutrition web app helping people estimate their daily macros and plan meals.
+<h3 align="left"> 🤝 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ryan pégoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan pégoud" height="30" width="40" /></a>
+<a href="https://medium.com/@ryanpegoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ryanpegoud" height="30" width="40" /></a>
+</p>
 
-With a dedication to 💡 innovation and a strong 💪 work ethic, I strive to apply my skills and expertise to make a positive impact in the world of data science. Let's connect and explore new opportunities together. 🔗
+<h3 align="left">🕹️ Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://jax.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/154739597/90607180-e100-11e9-8642-c65819bec604" alt="tensorflow" width="50" height="30"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
 
-# 🧪 My favorite tools
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpegoud&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,Makefile" alt="rpegoud" /></p>
 
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="JAX" width="60px" style="padding-right:10px;" src="https://repository-images.githubusercontent.com/154739597/90607180-e100-11e9-8642-c65819bec604" />
-<img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="VSC" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img  align="left" alt="FireBase" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img   align="left" alt="Figma" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rpegoud&" alt="rpegoud" /></p>
