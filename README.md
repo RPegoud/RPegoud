@@ -15,6 +15,7 @@
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vectorize and Parallelize RL Environments with JAX: Q-learning at the Speed of Light⚡](https://towardsdatascience.com/vectorize-and-parallelize-rl-environments-with-jax-q-learning-at-the-speed-of-light-49d07373adf5?source=rss-27fba63b402e------2)
 - [Temporal-Difference Learning and the importance of exploration: An illustrated guide](https://towardsdatascience.com/temporal-difference-learning-and-the-importance-of-exploration-an-illustrated-guide-5f9c3371413a?source=rss-27fba63b402e------2)
 <!-- BLOG-POST-LIST:END -->
 
