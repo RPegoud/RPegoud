@@ -1,5 +1,9 @@
 ![MasterHead](https://github.com/RPegoud/RPegoud/assets/60786847/240219fe-6372-46df-8443-5f2a5bb86800)
 
+[![Medium](https://img.shields.io/badge/Towards_Data_Science-Follow_Me-FAC151.svg?logo=medium&logoWidth=20)](https://medium.com/@ryanpegoud)
+[![Blog](https://img.shields.io/badge/Machine_Learning_Blog-Have_a_read-FAC151.svg?)](https://machine-learning-blog.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect!-FAC151.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/ryan-pégoud/)
+
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Invetered Gradient Descender, Reinforcement Learning Enthusiast</h3>
 
@@ -23,7 +27,7 @@
 
 ---
 
-<h3 align="left"> 🤝 Connect with me:</h3>
+### 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ryan pégoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan pégoud" height="30" width="40" /></a>
 <a href="https://medium.com/@ryanpegoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ryanpegoud" height="30" width="40" /></a>
@@ -31,7 +35,7 @@
 
 ---
 
-<h3 align="left">🕹️ Languages and Tools:</h3>
+### 🕹️ Languages and Tools:
 <p align="center">
   <img src="https://github.com/RPegoud/RPegoud/assets/60786847/61315072-e5ab-444d-be79-56dcc95f5bbf" height=75>
 </p>
@@ -43,7 +47,7 @@
 
 ---
 
-### 🚀 Current Projects
+### 🚀 Current Projects:
 
 [![JAX Lab](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jab&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jab)
 [![JAX Jym](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jym)
@@ -55,7 +59,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 Stats:
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpegoud&theme=buefy&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,Makefile" alt="rpegoud" height="192px"/></p>
