@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1655635643486-a17bc48771ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2532&q=80)](https://unsplash.com/fr/@googledeepmind)
+![MasterHead](https://github.com/RPegoud/RPegoud/assets/60786847/240219fe-6372-46df-8443-5f2a5bb86800)
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Invetered Gradient Descender, Reinforcement Learning Enthusiast</h3>
@@ -32,16 +32,13 @@
 ---
 
 <h3 align="left">🕹️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://jax.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/154739597/90607180-e100-11e9-8642-c65819bec604" alt="tensorflow" width="50" height="30"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://github.com/RPegoud/RPegoud/assets/60786847/61315072-e5ab-444d-be79-56dcc95f5bbf" height=75>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,github,githubactions,aws,flutter,firebase,js,tailwind,figma&theme=light&perline=5" />
+  </a>
 </p>
 
 ---
