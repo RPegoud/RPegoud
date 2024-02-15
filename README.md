@@ -9,11 +9,13 @@
 
 - 🔭 I’m currently working as **Part-Time Professor in NLP *@EPF Engineering School***
 
-- 🌱 I’m currently studying **Reinforcement Learning using JAX**
+- 🌱 Ongoing projects:
+  - **Independent research** on **optimal prioritization of replay buffers** (DQN, SAC), reference: *Large Batch Experience Replay, Lahire et al. ICML 2022*
+  - [**Neat Jax**](https://github.com/RPegoud/neat-jax): A Jax implementation of the Neat algorithm (**NeuroEvolution of Augmenting Topologies**), *Efficient Evolution of Neural Network Topologies, Stanley et al., 2002*
 
-- 📝 I regularly write articles on [**my personal blog**](https://machine-learning-blog.vercel.app) and [**Towards Data Science**](https://medium.com/@ryanpegoud)
+- 📝 Find my articles on [**my personal blog**](https://machine-learning-blog.vercel.app) and [**Towards Data Science**](https://medium.com/@ryanpegoud)
 
-- 📫 Reach me here **<ryan.pegoud@epfedu.fr>**
+- 📫 Reach me here: **<ryan.pegoud@epfedu.fr>**
 
 - 📄 Learn more about my experiences on my [**portfolio**](https://rpegoud.github.io)
 
@@ -27,7 +29,8 @@
 
 ---
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/ryan pégoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan pégoud" height="30" width="40" /></a>
 <a href="https://medium.com/@ryanpegoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ryanpegoud" height="30" width="40" /></a>
@@ -35,23 +38,24 @@
 
 ---
 
-### 🕹️ Languages and Tools:
+### 🕹️ Languages and Tools
+
 <p align="center">
   <img src="https://github.com/RPegoud/RPegoud/assets/60786847/61315072-e5ab-444d-be79-56dcc95f5bbf" height=75>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,github,githubactions,aws,flutter,firebase,js,tailwind,figma&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,flutter,cpp,github,aws,firebase,figma&theme=light&perline=4" />
   </a>
 </p>
 
 ---
 
-### 🚀 Current Projects:
+### 🚀 Current Projects
 
-[![JAX Lab](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jab&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jab)
 [![JAX Jym](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jym)
-[![JAX Jym](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=MachineLearningBlog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/MachineLearningBlog)
+[![Neat JAX](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=neat-jax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RPegoud/neat-jax)
+[![JAX Lab](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jab&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jab)
 [![Temporal Difference Learning](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=Temporal-Difference-learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/Temporal-Difference-learning)
 <p align="left">
   <a href="https://github.com/rpegoud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -59,7 +63,7 @@
 
 ---
 
-### 📊 Stats:
+### 📊 Stats
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpegoud&theme=buefy&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,Makefile" alt="rpegoud" height="192px"/></p>
