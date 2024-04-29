@@ -5,12 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect!-FAC151.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/ryan-pégoud/)
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">Invetered Gradient Descender, Reinforcement Learning Enthusiast</h3>
 
 - 🔭 I’m currently working as **Part-Time Professor in NLP *@EPF Engineering School***
 
 - 🌱 Ongoing projects:
   - **Independent research** on **optimal prioritization of replay buffers** (DQN, SAC), reference: *Large Batch Experience Replay, Lahire et al. ICML 2022*
+  - **Contributing to the [Syllabus](https://github.com/RyanNavillus/Syllabus) library** by implementing Curriculum Learning algorithms
   - [**Neat Jax**](https://github.com/RPegoud/neat-jax): A Jax implementation of the Neat algorithm (**NeuroEvolution of Augmenting Topologies**), *Efficient Evolution of Neural Network Topologies, Stanley et al., 2002*
 
 - 📝 Find my articles on [**my personal blog**](https://machine-learning-blog.vercel.app) and [**Towards Data Science**](https://medium.com/@ryanpegoud)
