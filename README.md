@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/RPegoud/RPegoud/assets/60786847/240219fe-6372-46df-8443-5f2a5bb86800)
-
 [![Medium](https://img.shields.io/badge/Towards_Data_Science-Follow_Me-FAC151.svg?logo=medium&logoWidth=20)](https://medium.com/@ryanpegoud)
 [![Blog](https://img.shields.io/badge/Machine_Learning_Blog-Have_a_read-FAC151.svg?)](https://machine-learning-blog.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect!-FAC151.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/ryan-pégoud/)
