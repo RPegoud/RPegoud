@@ -8,7 +8,7 @@
 
 - 🌱 Ongoing projects:
   - **Independent research** on **optimal prioritization of replay buffers** (DQN, SAC), reference: *Large Batch Experience Replay, Lahire et al. ICML 2022*
-  - **Contributing to the [Syllabus](https://github.com/RyanNavillus/Syllabus) library** by implementing Curriculum Learning algorithms
+  - **Contributing to the [Syllabus](https://github.com/RyanNavillus/Syllabus) library** by implementing Curriculum Learning algorithms (e.g. Self-Play variants)
   - [**Neat Jax**](https://github.com/RPegoud/neat-jax): A Jax implementation of the Neat algorithm (**NeuroEvolution of Augmenting Topologies**), *Efficient Evolution of Neural Network Topologies, Stanley et al., 2002*
 
 - 📝 Find my articles on [**my personal blog**](https://machine-learning-blog.vercel.app) and [**Towards Data Science**](https://medium.com/@ryanpegoud)
