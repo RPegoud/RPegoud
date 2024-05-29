@@ -54,15 +54,14 @@
 
 [![JAX Jym](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jym)
 [![Neat JAX](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=neat-jax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RPegoud/neat-jax)
-[![JAX Lab](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jab&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jab)
+[![Syllabus (contribution)](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=syllabus&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/syllabus)
 [![Temporal Difference Learning](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=Temporal-Difference-learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/Temporal-Difference-learning)
 <p align="left">
   <a href="https://github.com/rpegoud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
----
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpegoud&theme=buefy&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,Makefile" alt="rpegoud" height="192px"/></p>
@@ -79,4 +78,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rpegoud&theme=buefy" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
-</div>
+</div> -->
