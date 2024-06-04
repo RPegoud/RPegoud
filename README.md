@@ -1,21 +1,23 @@
-[![Medium](https://img.shields.io/badge/Towards_Data_Science-Follow_Me-FAC151.svg?logo=medium&logoWidth=20)](https://medium.com/@ryanpegoud)
+<!--[![Medium](https://img.shields.io/badge/Towards_Data_Science-Follow_Me-FAC151.svg?logo=medium&logoWidth=20)](https://medium.com/@ryanpegoud)
 [![Blog](https://img.shields.io/badge/Machine_Learning_Blog-Have_a_read-FAC151.svg?)](https://machine-learning-blog.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect!-FAC151.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/ryan-pégoud/)
-
+-->
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 
 - 🔭 I’m currently working as **Part-Time Professor in NLP *@EPF Engineering School***
 
 - 🌱 Ongoing projects:
-  - **Independent research** on **optimal prioritization of replay buffers** (DQN, SAC), reference: *Large Batch Experience Replay, Lahire et al. ICML 2022*
-  - **Contributing to the [Syllabus](https://github.com/RyanNavillus/Syllabus) library** by implementing Curriculum Learning algorithms (e.g. Self-Play variants)
-  - [**Neat Jax**](https://github.com/RPegoud/neat-jax): A Jax implementation of the Neat algorithm (**NeuroEvolution of Augmenting Topologies**), *Efficient Evolution of Neural Network Topologies, Stanley et al., 2002*
+  - **Independent research** on **optimal prioritization of replay buffers**, reference: *Large Batch Experience Replay, Lahire et al. ICML 2022*.
+  - **Contributing to [Syllabus](https://github.com/RyanNavillus/Syllabus)** by implementing Curriculum Learning algorithms (e.g. Self-Play variants).
+  - **Contributing to [Stoix](https://github.com/EdanToledo/Stoix)** by implenting DQN variants in JAX.
 
-- 📝 Find my articles on [**my personal blog**](https://machine-learning-blog.vercel.app) and [**Towards Data Science**](https://medium.com/@ryanpegoud)
+- 📝 I regularly write about Reinforcement Learning and other ML topics on [**Towards Data Science**](https://medium.com/@ryanpegoud)
 
-- 📫 Reach me here: **<ryan.pegoud@epfedu.fr>**
+- 📫 Reach me here: **<ryan.pegoud@outlook.com>**
 
-- 📄 Learn more about my experiences on my [**portfolio**](https://rpegoud.github.io)
+- 📄 Learn more about my experiences on my [**portfolio**](https://ryanpegoud.netlify.app)
+
+- 🤝 Connect with me on [**LinkedIn**](www.linkedin.com/in/ryan-pégoud) 
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,15 +30,6 @@
 
 ---
 
-### 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/ryan pégoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan pégoud" height="30" width="40" /></a>
-<a href="https://medium.com/@ryanpegoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ryanpegoud" height="30" width="40" /></a>
-</p>
-
----
-
 ### 🕹️ Languages and Tools
 
 <p align="center">
@@ -44,13 +37,14 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,flutter,cpp,github,aws,firebase,figma&theme=light&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,flutter,docker,github,aws&theme=light&perline=3" />
   </a>
 </p>
 
 ---
 
-### 🚀 Current Projects
+
+<!-- ### 🚀 Current Projects
 
 [![JAX Jym](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=jym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/jym)
 [![Neat JAX](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=neat-jax&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RPegoud/neat-jax)
@@ -58,7 +52,7 @@
 [![Temporal Difference Learning](https://github-readme-stats.vercel.app/api/pin/?username=rpegoud&repo=Temporal-Difference-learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rpegoud/Temporal-Difference-learning)
 <p align="left">
   <a href="https://github.com/rpegoud?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+</p> -->
 
 
 <!-- ### 📊 Stats
