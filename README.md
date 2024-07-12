@@ -21,11 +21,11 @@
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rainbow: The Colorful Evolution of Deep Q-Networks](https://towardsdatascience.com/rainbow-the-colorful-evolution-of-deep-q-networks-37e662ab99b2?source=rss-27fba63b402e------2)
 - [A Practical Guide to Proximal Policy Optimization in JAX](https://towardsdatascience.com/breaking-down-state-of-the-art-ppo-implementations-in-jax-6f102c06c149?source=rss-27fba63b402e------2)
 - [A Gentle Introduction to Deep Reinforcement Learning in JAX](https://towardsdatascience.com/a-gentle-introduction-to-deep-reinforcement-learning-in-jax-c1e45a179b92?source=rss-27fba63b402e------2)
 - [Implementing a Transformer Encoder from Scratch with JAX and Haiku](https://towardsdatascience.com/implementing-a-transformer-encoder-from-scratch-with-jax-and-haiku-791d31b4f0dd?source=rss-27fba63b402e------2)
 - [Vectorize and Parallelize RL Environments with JAX: Q-learning at the Speed of Light⚡](https://towardsdatascience.com/vectorize-and-parallelize-rl-environments-with-jax-q-learning-at-the-speed-of-light-49d07373adf5?source=rss-27fba63b402e------2)
-- [Temporal-Difference Learning and the importance of exploration: An illustrated guide](https://towardsdatascience.com/temporal-difference-learning-and-the-importance-of-exploration-an-illustrated-guide-5f9c3371413a?source=rss-27fba63b402e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
