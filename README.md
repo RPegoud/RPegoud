@@ -2,12 +2,11 @@
 [![Blog](https://img.shields.io/badge/Machine_Learning_Blog-Have_a_read-FAC151.svg?)](https://machine-learning-blog.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect!-FAC151.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/ryan-pégoud/)
 -->
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<!--<h1 align="center">Hi 👋, I'm Ryan</h1>-->
 
-- 🔭 I’m currently working as **Part-Time Professor in NLP *@EPF Engineering School***
+- 🔭 I’m currently studying ***Computational Statistics and Machine Learning*** at **_University College London (UCL)_**.
 
 - 🌱 Ongoing projects:
-  - **Independent research** on **optimal prioritization of replay buffers**, reference: *Large Batch Experience Replay, Lahire et al. ICML 2022*.
   - **Contributing to [Syllabus](https://github.com/RyanNavillus/Syllabus)** by implementing Curriculum Learning algorithms (e.g. Self-Play variants).
   - **Contributing to [Stoix](https://github.com/EdanToledo/Stoix)** by implenting DQN variants in JAX.
 
