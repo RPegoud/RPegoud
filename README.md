@@ -20,11 +20,11 @@
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [Rainbow: The Colorful Evolution of Deep Q-Networks](https://medium.com/towards-data-science/rainbow-the-colorful-evolution-of-deep-q-networks-37e662ab99b2?source=rss-27fba63b402e------2)
-- [A Practical Guide to Proximal Policy Optimization in JAX](https://medium.com/towards-data-science/breaking-down-state-of-the-art-ppo-implementations-in-jax-6f102c06c149?source=rss-27fba63b402e------2)
-- [A Gentle Introduction to Deep Reinforcement Learning in JAX](https://medium.com/towards-data-science/a-gentle-introduction-to-deep-reinforcement-learning-in-jax-c1e45a179b92?source=rss-27fba63b402e------2)
-- [Implementing a Transformer Encoder from Scratch with JAX and Haiku](https://medium.com/towards-data-science/implementing-a-transformer-encoder-from-scratch-with-jax-and-haiku-791d31b4f0dd?source=rss-27fba63b402e------2)
-- [Vectorize and Parallelize RL Environments with JAX: Q-learning at the Speed of Light⚡](https://medium.com/towards-data-science/vectorize-and-parallelize-rl-environments-with-jax-q-learning-at-the-speed-of-light-49d07373adf5?source=rss-27fba63b402e------2)
+- [Rainbow: The Colorful Evolution of Deep Q-Networks](https://medium.com/data-science/rainbow-the-colorful-evolution-of-deep-q-networks-37e662ab99b2?source=rss-27fba63b402e------2)
+- [A Practical Guide to Proximal Policy Optimization in JAX](https://medium.com/data-science/breaking-down-state-of-the-art-ppo-implementations-in-jax-6f102c06c149?source=rss-27fba63b402e------2)
+- [A Gentle Introduction to Deep Reinforcement Learning in JAX](https://medium.com/data-science/a-gentle-introduction-to-deep-reinforcement-learning-in-jax-c1e45a179b92?source=rss-27fba63b402e------2)
+- [Implementing a Transformer Encoder from Scratch with JAX and Haiku](https://medium.com/data-science/implementing-a-transformer-encoder-from-scratch-with-jax-and-haiku-791d31b4f0dd?source=rss-27fba63b402e------2)
+- [Vectorize and Parallelize RL Environments with JAX: Q-learning at the Speed of Light⚡](https://medium.com/data-science/vectorize-and-parallelize-rl-environments-with-jax-q-learning-at-the-speed-of-light-49d07373adf5?source=rss-27fba63b402e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
